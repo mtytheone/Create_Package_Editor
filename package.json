@@ -1,0 +1,8 @@
+{
+    "name": "hatuxes-package",
+    "version": "0.0.1",
+    "displayName": "Displayhatuxes",
+    "unity": "2018.4.14",
+    "description": "Custom package A",
+    "dependencies": { }
+  }
